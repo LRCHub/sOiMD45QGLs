@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "3月9日",
+  "base_artist": "レミオロメン",
+  "createdAt": "2026-03-13T04:42:05.047095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/01_3月9日_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/02_3月9日_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_3月9日_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "3月9日 - SANGATSU KOKONOKA",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/04_3月9日_-_SANGATSU_KOKONOKA_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "3月9日 feat.竹内美宥(AKB48)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/05_3月9日_feat.竹内美宥(AKB48)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Ryota Fujimaki",
+      "has_synced": true,
+      "path": "select/06_3月9日_Ryota_Fujimaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3月9日 feat. 竹内美宥 (AKB48)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/07_3月9日_feat._竹内美宥_(AKB48)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/08_3月9日_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3月9日 - SANGATSU KOKONOKA",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/09_3月9日_-_SANGATSU_KOKONOKA_Remioromen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/10_3月9日_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/11_3月9日_Uru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/12_3月9日_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/13_3月9日_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/14_3月9日_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/15_3月9日_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Crystal Kay",
+      "has_synced": false,
+      "path": "select/16_3月9日_Crystal_Kay.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Kay, Crystal",
+      "has_synced": false,
+      "path": "select/17_3月9日_Kay,_Crystal.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "3月9日",
+      "artist": "Kou Shibasaki",
+      "has_synced": true,
+      "path": "select/18_3月9日_Kou_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "3月9日 - SANGATSU KOKONOKA",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/19_3月9日_-_SANGATSU_KOKONOKA_Remioromen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3月9日",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_3月9日_レミオロメン.txt"
+    }
+  ]
+}
